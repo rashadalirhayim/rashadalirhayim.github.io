@@ -11,35 +11,43 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in City and Regional Planning, The Ohio State University, 2026 (expected)
+* M.S. in Sustainable Urban Development, Oxford University, 2019
+* B.S. in Architecture, University of Bahrain, 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2021 - Summer 2026: Research Assistant
+  * The Ohio State University
+  * Duties includes: Managing Editor for the Journal of Planning Literature
+  * Supervisor: Prof. Rachel G. Kleit
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2025: Teaching Assistant
+  * The Ohio State University
+  * Duties included: Teaching Assistance for "CRPLAN 3400: Planning for Sustainable Economic Development"
+  * Supervisor: Toby Rittner
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Dec 2018 - Mar 2019: Urban Planner
+  * Ministry of Works, Muharraq, Bahrain
+  * Duties included: Urban Design, Site Analysis, Digital Modeling, Schematic Design
+
+* May 2018 - Dec 2018: Researcher
+  * Ministry of Education, Department of Scientific Research Development,
+Bahrain
+  * Duties included: Research, Writing Reports for Presentations in Education Policy
+ 
+* June 2014 - Sep 2016: Architect
+  * Aref Sadeq Design Consultants, Manama, Bahrain
+  * Duties included: Architectural Design, Site Analysis, Digital Modeling, Schematic Design
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Software
+  * ArcGIS Pro, AutoCAD, Revit, Sketchup, Photoshop
+* Analysis
+  * R, Python, NVivo 12, Excel 2010-2021, STATA, SPSS, VOSviewer
+* Languages
+  * Arabic (Fluent), English (Fluent)
 
 Publications
 ======
@@ -61,4 +69,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Managing Editor, Journal of Planning Literature
+* Reviewer, Journal of Cultural Geography
