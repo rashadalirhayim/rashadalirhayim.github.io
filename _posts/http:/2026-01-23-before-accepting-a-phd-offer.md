@@ -1,6 +1,6 @@
 ---
 title: "Preparing for the PhD Journey: A Pre-Departure Guide"
-date: 2026-01-23
+date: 2021-06-15
 permalink: /posts/2026/01/phd-preparation-guide/
 tags:
   - PhD Life
