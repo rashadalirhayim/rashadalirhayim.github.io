@@ -48,8 +48,6 @@ You don’t have to be a finance guru to know that you are going to have to do s
 
 ---
 
-# Personal Growth
-
 ## 5. Read every day!
 It’s extremely important that you familiarize yourself with the most significant discourses and trends in your field. If you don’t, you will have trouble knowing:
 1. What has already been done.
