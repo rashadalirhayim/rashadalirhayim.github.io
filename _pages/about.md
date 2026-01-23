@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate in City and Regional Planning at The Ohio State University, with an expected graduation date of December 2025. My research focuses on refugee housing and resettlement in the United States, especially how organizations and local housing markets affect refugees’ access to stable and affordable housing.
+I am a PhD graduate in City and Regional Planning at The Ohio State University. My research focuses on refugee housing and resettlement in the United States, especially how organizations and local housing markets affect refugees’ access to stable and affordable housing.
 
 My interest in understanding immigrants' living experience in the cities they migrate to began early in my academic journey. It started when I designed a camp prototype for Syrian refugees fleeing war, which made me think deeply about dignity and safety in displacement. I later co‑designed a proposal for the Rebuilding Iraq’s Liberated Areas: Mosul’s Housing competition organized by the Tamayouz Excellence Award, which sought solutions for post‑conflict housing in Mosul. That design was long‑listed among entries from around the world, and is one of my first large scale housing design proposals. It is a project I look back at fondly.
 
