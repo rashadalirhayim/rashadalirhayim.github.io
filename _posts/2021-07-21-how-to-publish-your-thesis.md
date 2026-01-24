@@ -46,7 +46,7 @@ Formatting can be overwhelming, but you must meet the standards of your chosen j
 ### 3. Proofread Before Submitting
 A paper full of typos won't be taken seriously by reviewers. Careless mistakes detract from the scholarly research process and may prevent you from receiving constructive feedback. 
 
-(/images/thesis-editing.gif)
+![ ](/images/your-image-filename.jpg)
 
 > **Tip:** Ask the editor about their typical response time. The earlier you start your revisions, the better prepared you will be for the final submission.
 
