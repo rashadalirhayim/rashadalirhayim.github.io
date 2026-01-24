@@ -56,6 +56,7 @@ To transform streets into plazas, the NYC DOT developed **pilot programs**. Thes
 * **Examples:** Times Square and Herald Square both began as pilot programs before becoming permanent fixtures of the NYC landscape.
 
 ![Open streets activities](/images/open-streets.jpg)
+
 *Figure 2: Tactical urbanism in action—from mascots playing chess to outdoor restaurant seating. Photo by MK Metz.*
 
 ### Nothing stops you, until it does
