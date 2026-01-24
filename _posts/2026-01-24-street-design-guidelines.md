@@ -1,6 +1,6 @@
 ---
 title: "Street Design Guidelines: A Commissioner’s Viewpoint"
-date: 2026-01-24
+date: 2021-03-19
 permalink: /posts/2026/01/street-design-guidelines/
 tags:
   - Urban Design
