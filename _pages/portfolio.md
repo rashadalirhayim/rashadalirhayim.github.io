@@ -56,19 +56,50 @@ A timber structure design entry titled "A house to live in the Wilderness," serv
 ![ ](/images/wilderness-house.jpg)
 
 <style>
-  .issuu-container {
-    margin: 15px 0 45px 0;
+  /* Container for the grid */
+  .portfolio-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+  }
+
+  /* Individual project cards */
+  .project-card {
     border: 1px solid #eee;
     border-radius: 8px;
     overflow: hidden;
+    background: #fff;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
   }
-  h3 {
-    margin-top: 25px;
-    color: #2c3e50;
+
+  .project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
   }
-  img {
-    border-radius: 4px;
-    margin-top: 10px;
+
+  /* Force images to be same size and crop to fit */
+  .project-card img {
+    width: 100%;
+    height: 250px; /* Adjust this height as needed */
+    object-fit: cover; /* This is the "magic" that makes them same size */
     display: block;
+    margin: 0 !important; /* Overrides template defaults */
+  }
+
+  .project-info {
+    padding: 15px;
+  }
+
+  .project-info h3 {
+    margin: 0 0 10px 0 !important;
+    font-size: 1.1rem;
+  }
+
+  .issuu-container {
+    margin: 20px 0;
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid #eee;
   }
 </style>
