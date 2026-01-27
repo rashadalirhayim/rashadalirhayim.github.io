@@ -21,56 +21,36 @@ author_profile: true
 
 <hr style="margin-top: 40px; border: 0; border-top: 1px solid #eee;">
 
-<div class="portfolio-text-content">
-
 ## Project Details
 
 ### Professional Projects: Aref Sadeq Design Consultants (2014 - 2016)
 
-<div class="project-entry">
-  <strong>IFAD Lab | Hidd, Bahrain</strong>: A three-story pharmaceutical lab for food quality control. Contribution involved developing design options and preparing drawings for Municipality Approval and detailed drawings for tender submission.
-</div>
+[cite_start]**IFAD Lab | Hidd, Bahrain**: A three-story pharmaceutical lab for food quality control. Contribution involved developing design options and preparing drawings for Municipality Approval and detailed drawings for tender submission. [cite: 1]
 
-<div class="project-entry">
-  <strong>Senior Social Club | Bahrain</strong>: A four-story facility with workshops and gyms. Served as project leader and coordinator from early design through construction phase; prepared all architectural drawings for Municipality Approval and detailed drawings for tender submission.
-</div>
+**Senior Social Club | Bahrain**: A four-story facility with workshops and gyms. [cite_start]Served as project leader and coordinator from early design through construction phase; prepared all architectural drawings for Municipality Approval and detailed drawings for tender submission. [cite: 1]
 
-<div class="project-entry">
-  <strong>Naseem School | Riffa, Bahrain</strong>: An international school in vernacular style. Prepared all architectural drawings for Municipality Approval and tender; led coordination and liaised with structure, MEP, and sustainability consultants.
-</div>
+**Naseem School | Riffa, Bahrain**: An international school in vernacular style. [cite_start]Prepared all architectural drawings for Municipality Approval and tender; led coordination and liaised with structure, MEP, and sustainability consultants. [cite: 1]
 
-<div class="project-entry">
-  <strong>Catamaran Tower | Seef, Bahrain</strong>: Two contemporary residential towers. This 33-story tower provides an array of facilities including an indoor/outdoor pool on the 6th-floor terrace level and a spa. Assisted in the preparation of architectural drawings for Client Approval.
-</div>
+**Catamaran Tower | Seef, Bahrain**: Two contemporary residential towers. This 33-story tower provides an array of facilities including an indoor/outdoor pool on the 6th-floor terrace level and a spa. [cite_start]Assisted in the preparation of architectural drawings for Client Approval. [cite: 1]
 
-<div class="project-entry">
-  <strong>Private Housing | Saar & Juffair</strong>: Developed design options for a 10-villa compound in Saar and assisted in conceptual drawings for a 45-villa compound in Juffair.
-</div>
+**Private Housing | [cite_start]Saar & Juffair**: Developed design options for a 10-villa compound in Saar and assisted in conceptual drawings for a 45-villa compound in Juffair. [cite: 1]
 
-<hr style="margin: 40px 0; border: 0; border-top: 1px solid #eee;">
+---
 
 ### Academic & Research: University of Bahrain (2008-2013)
 
-<div class="project-entry">
-  <strong>Beyond Shelter: Designing for Refugees</strong>: Graduation project examining social aspects of refugee camps as a response to the humanitarian crisis resulting from the Syrian war, which displaced more than 1.4 million people by 2011.
-</div>
+[cite_start]**Beyond Shelter: Designing for Refugees**: Graduation project examining social aspects of refugee camps as a response to the humanitarian crisis resulting from the Syrian war, which displaced more than 1.4 million people by 2011. [cite: 1]
 
 <div class="issuu-container">
   <iframe src="https://e.issuu.com/embed.html?d=temporary_shelter_from_reusable_material&u=rashadal" width="100%" height="450px" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<div class="project-entry">
-  <strong>Places of Production: Aluminum, Bahrain</strong>: Participated as a research team member for Bahrain’s National Participation at the 15th International Architecture Exhibition - la Biennale di Venezia.
-</div>
+[cite_start]**Places of Production: Aluminum, Bahrain**: Participated as a research team member for Bahrain’s National Participation at the 15th International Architecture Exhibition - la Biennale di Venezia. [cite: 1]
 
-<div class="project-entry">
-  <strong>13th Shelter Architectural Design Competition</strong>: Timber structure design for "A house to live in the Wilderness," serving as a safe haven from modern life for city dwellers.
-</div>
-
-</div>
+[cite_start]**13th Shelter Architectural Design Competition**: Timber structure design for "A house to live in the Wilderness," serving as a safe haven from modern life for city dwellers. [cite: 1]
 
 <style>
-  /* 1. Masonry Grid Style */
+  /* Masonry Grid Style */
   .masonry-gallery {
     column-count: 3;
     column-gap: 20px;
@@ -91,37 +71,7 @@ author_profile: true
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
   }
 
-  /* 2. Strict removal of bullets and stars */
-  .portfolio-text-content * {
-    list-style: none !important;
-    list-style-type: none !important;
-    text-indent: 0 !important;
-  }
-
-  /* 3. Typography & Large Font Size */
-  h2 {
-    font-size: 2.2em !important;
-    margin-top: 40px;
-    color: #2c3e50;
-    border: none !important;
-  }
-
-  h3 {
-    font-size: 1.6em !important;
-    margin-top: 30px;
-    color: #34495e;
-    padding-bottom: 5px;
-    border: none !important;
-  }
-
-  .project-entry {
-    margin-bottom: 30px;
-    line-height: 1.8;
-    font-size: 1.25rem; /* Increased font size for professional look */
-    color: #333;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  }
-
+  /* Typography Reset to match theme */
   .issuu-container {
     margin: 30px 0;
     border-radius: 8px;
@@ -129,7 +79,19 @@ author_profile: true
     border: 1px solid #eee;
   }
 
-  /* Responsive Columns */
+  /* Strict removal of any list formatting that might cause "stars" */
+  ul, li {
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  /* Ensuring images don't show blank - fix for theme conflict */
+  .masonry-item img {
+    min-height: 50px;
+    background-color: #f9f9f9;
+  }
+
   @media (max-width: 1000px) { .masonry-gallery { column-count: 2; } }
   @media (max-width: 600px) { .masonry-gallery { column-count: 1; } }
 </style>
