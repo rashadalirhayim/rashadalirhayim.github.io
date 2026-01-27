@@ -19,38 +19,40 @@ author_profile: true
   <div class="masonry-item"><img src="/images/wilderness-house.jpg" alt="Shelter Competition"></div>
 </div>
 
-<hr style="margin-top: 40px;">
+<hr style="margin-top: 40px; border: 0; border-top: 1px solid #eee;">
 
-## Project Details
+<div class="portfolio-text-content">
 
-### Professional Projects: Aref Sadeq Design Consultants (2014 - 2016)
+## [cite_start]Project Details [cite: 1]
+
+### [cite_start]Professional Projects: Aref Sadeq Design Consultants (2014 - 2016) [cite: 1]
 
 <div class="project-entry">
-  **IFAD Lab | Hidd, Bahrain**: A three-story pharmaceutical lab for food quality control. Contribution involved developing design options and preparing drawings for Municipality Approval and tender.
+  <strong>IFAD Lab | Hidd, Bahrain</strong>: A three-story pharmaceutical lab for food quality control. [cite_start]Contribution involved developing design options and preparing drawings for Municipality Approval and tender. [cite: 1]
 </div>
 
 <div class="project-entry">
-  **Senior Social Club | Bahrain**: A four-story facility with workshops and gyms. Served as project leader and coordinator from early design through construction.
+  <strong>Senior Social Club | Bahrain</strong>: A four-story facility with workshops and gyms. [cite_start]Served as project leader and coordinator from early design through construction. [cite: 1]
 </div>
 
 <div class="project-entry">
-  **Naseem School | Riffa, Bahrain**: An international school in vernacular style. Led coordination with MEP and sustainability consultants while preparing detailed tender drawings.
+  <strong>Naseem School | Riffa, Bahrain</strong>: An international school in vernacular style. [cite_start]Led coordination with MEP and sustainability consultants while preparing detailed tender drawings. [cite: 1]
 </div>
 
 <div class="project-entry">
-  **Catamaran Tower | Seef, Bahrain**: Two 33-story residential towers with luxury facilities. Assisted in architectural drawings for Client Approval.
+  <strong>Catamaran Tower | Seef, Bahrain</strong>: Two 33-story residential towers with luxury facilities. [cite_start]Assisted in architectural drawings for Client Approval. [cite: 1]
 </div>
 
 <div class="project-entry">
-  **Private Housing | Saar & Juffair**: Developed design options for a 10-villa compound in Saar and assisted in conceptual drawings for a 45-villa compound in Juffair.
+  <strong>Private Housing | [cite_start]Saar & Juffair</strong>: Developed design options for a 10-villa compound in Saar and assisted in conceptual drawings for a 45-villa compound in Juffair. [cite: 1]
 </div>
 
----
+<hr style="margin: 40px 0; border: 0; border-top: 1px solid #eee;">
 
-### Academic & Research: University of Bahrain (2008-2013)
+### [cite_start]Academic & Research: University of Bahrain (2008-2013) [cite: 1]
 
 <div class="project-entry">
-  **Beyond Shelter: Designing for Refugees**: Graduation project examining social aspects of refugee camps as a response to the Syrian humanitarian crisis.
+  [cite_start]<strong>Beyond Shelter: Designing for Refugees</strong>: Graduation project examining social aspects of refugee camps as a response to the Syrian humanitarian crisis, which displaced over 1.4 million people by 2011. [cite: 1]
 </div>
 
 <div class="issuu-container">
@@ -58,15 +60,17 @@ author_profile: true
 </div>
 
 <div class="project-entry">
-  **Places of Production: Aluminum, Bahrain**: Research team member for Bahrain’s National Participation at the 15th International Architecture Exhibition - la Biennale di Venezia.
+  [cite_start]<strong>Places of Production: Aluminum, Bahrain</strong>: Research team member for Bahrain’s National Participation at the 15th International Architecture Exhibition - la Biennale di Venezia. [cite: 1]
 </div>
 
 <div class="project-entry">
-  **13th Shelter Architectural Design Competition**: Timber structure design for "A house to live in the Wilderness".
+  [cite_start]<strong>13th Shelter Architectural Design Competition</strong>: Timber structure design for "A house to live in the Wilderness," serving as a safe haven from modern life. [cite: 1]
+</div>
+
 </div>
 
 <style>
-  /* Interlocking Grid Logic */
+  /* 1. Masonry Grid Style */
   .masonry-gallery {
     column-count: 3;
     column-gap: 20px;
@@ -85,40 +89,47 @@ author_profile: true
     border-radius: 4px;
     display: block;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-    transition: all 0.3s ease;
   }
 
-  /* Typography and Layout Clean-up */
+  /* 2. Remove Stars/Bullets Forced by Theme */
+  .portfolio-text-content ul, 
+  .portfolio-text-content li {
+    list-style: none !important;
+    list-style-type: none !important;
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+  }
+
+  /* 3. Typography & Sizing */
   h2 {
-    font-size: 2em;
+    font-size: 2.2em !important;
     margin-top: 40px;
     color: #2c3e50;
   }
 
   h3 {
-    font-size: 1.5em;
+    font-size: 1.6em !important;
     margin-top: 30px;
     color: #34495e;
-    border-bottom: 1px solid #eee;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
   }
 
   .project-entry {
-    margin-bottom: 25px;
+    margin-bottom: 30px;
     line-height: 1.8;
-    font-size: 1.15rem; /* Larger font size */
-    color: #444;
+    font-size: 1.2rem; /* Enhanced size */
+    color: #333;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   }
 
   .issuu-container {
-    margin: 25px 0 40px 0;
+    margin: 30px 0;
     border-radius: 8px;
     overflow: hidden;
     border: 1px solid #eee;
   }
 
-  /* Responsive column count */
+  /* Responsive Columns */
   @media (max-width: 1000px) { .masonry-gallery { column-count: 2; } }
   @media (max-width: 600px) { .masonry-gallery { column-count: 1; } }
 </style>
