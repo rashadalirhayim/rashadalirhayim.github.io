@@ -25,29 +25,29 @@ author_profile: true
 
 ### Professional Projects: Aref Sadeq Design Consultants (2014 - 2016)
 
-[cite_start]**IFAD Lab | Hidd, Bahrain**: A three-story pharmaceutical lab for food quality control. Contribution involved developing design options and preparing drawings for Municipality Approval and detailed drawings for tender submission. [cite: 1]
+**IFAD Lab | Hidd, Bahrain:** A three-story pharmaceutical lab for food quality control. Contribution involved developing design options and preparing drawings for Municipality Approval and detailed drawings for tender submission
 
-**Senior Social Club | Bahrain**: A four-story facility with workshops and gyms. [cite_start]Served as project leader and coordinator from early design through construction phase; prepared all architectural drawings for Municipality Approval and detailed drawings for tender submission. [cite: 1]
+**Senior Social Club | Bahrain:** A four-story facility with workshops and gyms. Served as project leader and coordinator from early design through construction phase; prepared all architectural drawings for Municipality Approval and detailed drawings for tender submission.
 
-**Naseem School | Riffa, Bahrain**: An international school in vernacular style. [cite_start]Prepared all architectural drawings for Municipality Approval and tender; led coordination and liaised with structure, MEP, and sustainability consultants. [cite: 1]
+**Naseem School | Riffa, Bahrain**: An international school in vernacular style. Prepared all architectural drawings for Municipality Approval and tender; led coordination and liaised with structure, MEP, and sustainability consultants.
 
-**Catamaran Tower | Seef, Bahrain**: Two contemporary residential towers. This 33-story tower provides an array of facilities including an indoor/outdoor pool on the 6th-floor terrace level and a spa. [cite_start]Assisted in the preparation of architectural drawings for Client Approval. [cite: 1]
+**Catamaran Tower | Seef, Bahrain**: Two contemporary residential towers. This 33-story tower provides an array of facilities including an indoor/outdoor pool on the 6th-floor terrace level and a spa. Assisted in the preparation of architectural drawings for Client Approval. 
 
-**Private Housing | [cite_start]Saar & Juffair**: Developed design options for a 10-villa compound in Saar and assisted in conceptual drawings for a 45-villa compound in Juffair. [cite: 1]
+**Private Housing | Saar & Juffair**: Developed design options for a 10-villa compound in Saar and assisted in conceptual drawings for a 45-villa compound in Juffair.
 
 ---
 
 ### Academic & Research: University of Bahrain (2008-2013)
 
-[cite_start]**Beyond Shelter: Designing for Refugees**: Graduation project examining social aspects of refugee camps as a response to the humanitarian crisis resulting from the Syrian war, which displaced more than 1.4 million people by 2011. [cite: 1]
+**Beyond Shelter: Designing for Refugees**: Graduation project examining social aspects of refugee camps as a response to the humanitarian crisis resulting from the Syrian war, which displaced more than 1.4 million people by 2011. 
 
 <div class="issuu-container">
   <iframe src="https://e.issuu.com/embed.html?d=temporary_shelter_from_reusable_material&u=rashadal" width="100%" height="450px" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[cite_start]**Places of Production: Aluminum, Bahrain**: Participated as a research team member for Bahrain’s National Participation at the 15th International Architecture Exhibition - la Biennale di Venezia. [cite: 1]
+**Places of Production: Aluminum, Bahrain**: Participated as a research team member for Bahrain’s National Participation at the 15th International Architecture Exhibition - la Biennale di Venezia. 
 
-[cite_start]**13th Shelter Architectural Design Competition**: Timber structure design for "A house to live in the Wilderness," serving as a safe haven from modern life for city dwellers. [cite: 1]
+**13th Shelter Architectural Design Competition**: Timber structure design for "A house to live in the Wilderness," serving as a safe haven from modern life for city dwellers. 
 
 <style>
   /* Masonry Grid Style */
