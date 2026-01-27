@@ -23,36 +23,36 @@ author_profile: true
 
 <div class="portfolio-text-content">
 
-## [cite_start]Project Details [cite: 1]
+## Project Details
 
-### [cite_start]Professional Projects: Aref Sadeq Design Consultants (2014 - 2016) [cite: 1]
+### Professional Projects: Aref Sadeq Design Consultants (2014 - 2016)
 
 <div class="project-entry">
-  <strong>IFAD Lab | Hidd, Bahrain</strong>: A three-story pharmaceutical lab for food quality control. [cite_start]Contribution involved developing design options and preparing drawings for Municipality Approval and tender. [cite: 1]
+  <strong>IFAD Lab | Hidd, Bahrain</strong>: A three-story pharmaceutical lab for food quality control. Contribution involved developing design options and preparing drawings for Municipality Approval and detailed drawings for tender submission.
 </div>
 
 <div class="project-entry">
-  <strong>Senior Social Club | Bahrain</strong>: A four-story facility with workshops and gyms. [cite_start]Served as project leader and coordinator from early design through construction. [cite: 1]
+  <strong>Senior Social Club | Bahrain</strong>: A four-story facility with workshops and gyms. Served as project leader and coordinator from early design through construction phase; prepared all architectural drawings for Municipality Approval and detailed drawings for tender submission.
 </div>
 
 <div class="project-entry">
-  <strong>Naseem School | Riffa, Bahrain</strong>: An international school in vernacular style. [cite_start]Led coordination with MEP and sustainability consultants while preparing detailed tender drawings. [cite: 1]
+  <strong>Naseem School | Riffa, Bahrain</strong>: An international school in vernacular style. Prepared all architectural drawings for Municipality Approval and tender; led coordination and liaised with structure, MEP, and sustainability consultants.
 </div>
 
 <div class="project-entry">
-  <strong>Catamaran Tower | Seef, Bahrain</strong>: Two 33-story residential towers with luxury facilities. [cite_start]Assisted in architectural drawings for Client Approval. [cite: 1]
+  <strong>Catamaran Tower | Seef, Bahrain</strong>: Two contemporary residential towers. This 33-story tower provides an array of facilities including an indoor/outdoor pool on the 6th-floor terrace level and a spa. Assisted in the preparation of architectural drawings for Client Approval.
 </div>
 
 <div class="project-entry">
-  <strong>Private Housing | [cite_start]Saar & Juffair</strong>: Developed design options for a 10-villa compound in Saar and assisted in conceptual drawings for a 45-villa compound in Juffair. [cite: 1]
+  <strong>Private Housing | Saar & Juffair</strong>: Developed design options for a 10-villa compound in Saar and assisted in conceptual drawings for a 45-villa compound in Juffair.
 </div>
 
 <hr style="margin: 40px 0; border: 0; border-top: 1px solid #eee;">
 
-### [cite_start]Academic & Research: University of Bahrain (2008-2013) [cite: 1]
+### Academic & Research: University of Bahrain (2008-2013)
 
 <div class="project-entry">
-  [cite_start]<strong>Beyond Shelter: Designing for Refugees</strong>: Graduation project examining social aspects of refugee camps as a response to the Syrian humanitarian crisis, which displaced over 1.4 million people by 2011. [cite: 1]
+  <strong>Beyond Shelter: Designing for Refugees</strong>: Graduation project examining social aspects of refugee camps as a response to the humanitarian crisis resulting from the Syrian war, which displaced more than 1.4 million people by 2011.
 </div>
 
 <div class="issuu-container">
@@ -60,11 +60,11 @@ author_profile: true
 </div>
 
 <div class="project-entry">
-  [cite_start]<strong>Places of Production: Aluminum, Bahrain</strong>: Research team member for Bahrain’s National Participation at the 15th International Architecture Exhibition - la Biennale di Venezia. [cite: 1]
+  <strong>Places of Production: Aluminum, Bahrain</strong>: Participated as a research team member for Bahrain’s National Participation at the 15th International Architecture Exhibition - la Biennale di Venezia.
 </div>
 
 <div class="project-entry">
-  [cite_start]<strong>13th Shelter Architectural Design Competition</strong>: Timber structure design for "A house to live in the Wilderness," serving as a safe haven from modern life. [cite: 1]
+  <strong>13th Shelter Architectural Design Competition</strong>: Timber structure design for "A house to live in the Wilderness," serving as a safe haven from modern life for city dwellers.
 </div>
 
 </div>
@@ -91,20 +91,19 @@ author_profile: true
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
   }
 
-  /* 2. Remove Stars/Bullets Forced by Theme */
-  .portfolio-text-content ul, 
-  .portfolio-text-content li {
+  /* 2. Strict removal of bullets and stars */
+  .portfolio-text-content * {
     list-style: none !important;
     list-style-type: none !important;
-    margin-left: 0 !important;
-    padding-left: 0 !important;
+    text-indent: 0 !important;
   }
 
-  /* 3. Typography & Sizing */
+  /* 3. Typography & Large Font Size */
   h2 {
     font-size: 2.2em !important;
     margin-top: 40px;
     color: #2c3e50;
+    border: none !important;
   }
 
   h3 {
@@ -112,12 +111,13 @@ author_profile: true
     margin-top: 30px;
     color: #34495e;
     padding-bottom: 5px;
+    border: none !important;
   }
 
   .project-entry {
     margin-bottom: 30px;
     line-height: 1.8;
-    font-size: 1.2rem; /* Enhanced size */
+    font-size: 1.25rem; /* Increased font size for professional look */
     color: #333;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   }
