@@ -23,60 +23,76 @@ author_profile: true
 
 ### Professional Projects: Aref Sadeq Design Consultants (2014 - 2016)
 
-* **IFAD Lab | Hidd, Bahrain**: A three-story pharmaceutical lab for food quality control. [cite_start]Contribution involved developing design options and preparing drawings for Municipality Approval and tender[cite: 1].
-* **Senior Social Club | Bahrain**: A four-story facility with workshops and gyms. [cite_start]Served as project leader and coordinator from early design through construction[cite: 1].
-* **Naseem School | Riffa, Bahrain**: An international school in vernacular style. [cite_start]Led coordination with MEP and sustainability consultants while preparing detailed tender drawings[cite: 1].
-* **Catamaran Tower | Seef, Bahrain**: Two 33-story residential towers with luxury facilities. [cite_start]Assisted in architectural drawings for Client Approval[cite: 1].
-* **Private Housing | [cite_start]Saar & Juffair**: Developed design options for a 10-villa compound in Saar and assisted in conceptual drawings for a 45-villa compound in Juffair[cite: 1].
+* **IFAD Lab | Hidd, Bahrain**: A three-story pharmaceutical lab for food quality control. Contribution involved developing design options and preparing drawings for Municipality Approval and tender.
+* **Senior Social Club | Bahrain**: A four-story facility with workshops and gyms. Served as project leader and coordinator from early design through construction.
+* **Naseem School | Riffa, Bahrain**: An international school in vernacular style. Led coordination with MEP and sustainability consultants while preparing detailed tender drawings.
+* **Catamaran Tower | Seef, Bahrain**: Two 33-story residential towers with luxury facilities. Assisted in architectural drawings for Client Approval.
+* **Private Housing | Saar & Juffair**: Developed design options for a 10-villa compound in Saar and assisted in conceptual drawings for a 45-villa compound in Juffair.
 
 ### Academic & Research: University of Bahrain (2008-2013)
 
-* [cite_start]**Beyond Shelter: Designing for Refugees**: Graduation project examining social aspects of refugee camps as a response to the Syrian humanitarian crisis[cite: 1].
+* **Beyond Shelter: Designing for Refugees**: Graduation project examining social aspects of refugee camps as a response to the Syrian humanitarian crisis.
 <div class="issuu-container">
   <iframe src="https://e.issuu.com/embed.html?d=temporary_shelter_from_reusable_material&u=rashadal" width="100%" height="450px" frameborder="0" allowfullscreen></iframe>
 </div>
-* [cite_start]**Places of Production: Aluminum, Bahrain**: Research team member for Bahrain’s National Participation at the 15th International Architecture Exhibition - la Biennale di Venezia[cite: 1].
-* [cite_start]**13th Shelter Architectural Design Competition**: Timber structure design for "A house to live in the Wilderness"[cite: 1].
+* **Places of Production: Aluminum, Bahrain**: Research team member for Bahrain’s National Participation at the 15th International Architecture Exhibition - la Biennale di Venezia.
+* **13th Shelter Architectural Design Competition**: Timber structure design for "A house to live in the Wilderness".
 
 <style>
-  /* The "Tumblr" Interlocking Grid Logic */
+  /* Interlocking Grid Logic */
   .masonry-gallery {
-    column-count: 3; /* Divide into 3 columns */
-    column-gap: 15px; /* Space between columns */
+    column-count: 3;
+    column-gap: 20px;
     width: 100%;
   }
 
   .masonry-item {
-    display: inline-block; /* Essential to prevent image splitting between columns */
-    margin-bottom: 15px; /* Space between images vertically */
+    display: inline-block;
+    margin-bottom: 20px;
     width: 100%;
   }
 
   .masonry-item img {
     width: 100%;
-    height: auto; /* Maintains original aspect ratio */
+    height: auto;
     border-radius: 4px;
     display: block;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    transition: transform 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
   }
 
   .masonry-item img:hover {
-    transform: scale(1.02);
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0,0,0,0.15);
+  }
+
+  /* Typography Clean-up */
+  h2, h3 {
+    border-bottom: none;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: #333;
+  }
+
+  ul {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  li {
+    margin-bottom: 18px;
+    line-height: 1.6;
+    font-size: 1rem;
+    color: #444;
   }
 
   .issuu-container {
-    margin: 15px 0 30px 0;
-    border: 1px solid #eee;
+    margin: 20px 0;
     border-radius: 8px;
     overflow: hidden;
+    border: 1px solid #eee;
   }
 
-  /* Responsive: 2 columns for tablets, 1 for phones */
-  @media (max-width: 1000px) {
-    .masonry-gallery { column-count: 2; }
-  }
-  @media (max-width: 600px) {
-    .masonry-gallery { column-count: 1; }
-  }
+  @media (max-width: 1000px) { .masonry-gallery { column-count: 2; } }
+  @media (max-width: 600px) { .masonry-gallery { column-count: 1; } }
 </style>
