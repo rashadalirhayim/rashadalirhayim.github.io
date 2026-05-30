@@ -17,6 +17,10 @@ author_profile: true
   <div class="masonry-item"><img src="/images/bahrain-villas.jpg" alt="Private Villas"></div>
   <div class="masonry-item"><img src="/images/venice-biennale.jpg" alt="Venice Biennale"></div>
   <div class="masonry-item"><img src="/images/wilderness-house.jpg" alt="Shelter Competition"></div>
+  <div class="masonry-item"><img src="/images/sketch-istanbul-2019.jpg" alt="Architectural detail, Istanbul, Nov 2019"></div>
+  <div class="masonry-item"><img src="/images/sketch-house.jpg" alt="Wooden house, watercolor sketch"></div>
+  <div class="masonry-item"><img src="/images/sketch-barn-2019.jpg" alt="Barn on a snowy day, Nov 2019"></div>
+  <div class="masonry-item"><img src="/images/sketch-muharraq-2019.jpg" alt="Street scene, Muharraq, Bahrain, Nov 2019"></div>
 </div>
 
 <hr style="margin-top: 40px; border: 0; border-top: 1px solid #eee;">
