@@ -11,11 +11,14 @@ redirect_from:
 
 ## Education
 
-**PhD, City and Regional Planning** | The Ohio State University, Columbus, OH | 2026
+**PhD, City and Regional Planning**
+The Ohio State University, Columbus, OH | 2026
 
-**MSc, Sustainable Urban Development** | University of Oxford, Oxford, UK | 2019
+**MSc, Sustainable Urban Development**
+University of Oxford, Oxford, UK | 2019
 
-**BA, Architecture** | University of Bahrain, Manama, BH | 2013
+**BA, Architecture**
+University of Bahrain, Manama, BH | 2013
 
 ---
 
