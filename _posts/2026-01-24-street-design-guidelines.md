@@ -8,10 +8,13 @@ tags:
   - Streetfight
   - Tactical Urbanism
 ---
+Cities are often planned around movement, but the question is movement for whom? For decades, many streets have been designed mainly to move cars, even when this makes life less safe, less pleasant, and less fair for everyone else. The book "Streetfight" is about what happens when a city decides to challenge that logic and redesign streets around people instead of cars. It is also about the politics behind that change, because taking space away from cars is never just a design decision.
 
 Janette Sadik-Khan served as the Commissioner for New York City’s Department of Transportation (DOT) between 2007 and 2013. She describes herself as "one of the leading voices on urban transportation policy."
 
 Sadik-Khan was remarkably focused, which is why I believe she succeeded as a leader. Her target was singular: to make New York’s streets safer. In her book, *Streetfight*, she documents her tenure and focuses on how she redesigned New York’s streets. It is unusual to find a Transport Commissioner willing to write about their experiences with such transparency. 
+
+This book is worth reading now because the questions Sadik-Khan raises have not disappeared. Cities are still struggling with unsafe streets, congestion, car dependency, and the politics of taking space away from cars. The book does not give a model that every city can simply copy, but it shows what it takes to challenge the assumption that streets belong first to cars.
 
 This blog reflects on her "transformative redesigns" and organizes the discussion under three main themes: **Planning, Designing, and Implementing.**
 
@@ -66,10 +69,13 @@ Furthermore, the **federal gas tax** has remained at 18.4 cents since 1993. Adju
 
 ---
 
-## Personal Thoughts
-I find it hard to imagine Sadik-Khan succeeding in a city without the unique density of New York or Los Angeles. Her success was largely bolstered by her immense professional network. As she notes in Chapter 11, her ability to simply "pick up the phone" and reach the heads of the MTA was key to resolving inevitable friction. 
+### Personal Thoughts
 
-To be successful in urban transformation, you need a high degree of power and influence. Sadik-Khan clearly possessed both, making her achievements—while difficult to replicate—a masterclass in urban leadership.
+I find it hard to imagine Sadik-Khan succeeding in a city without the unique density of New York or Los Angeles. Her success was also supported by her immense professional network. As she notes in Chapter 11, her ability to simply “pick up the phone” and reach the heads of the MTA was key to resolving inevitable friction.
+
+To be successful in urban transformation, you need a high degree of power and influence. Sadik-Khan clearly possessed both, making her achievements difficult to replicate. But this is also why the book is useful. It does not only show what good street design looks like. It shows the amount of political work needed to make that design happen.
+
+This is why I think Streetfight is still worth reading. Many planners already know that cities need safer streets, better public transport, and more space for pedestrians and cyclists. The harder question is how to actually do it, especially when every change creates resistance. Sadik-Khan’s work reminds us that streets are not neutral spaces. They reflect political choices, and changing them means changing who the city is designed to serve.
 
 ---
 
