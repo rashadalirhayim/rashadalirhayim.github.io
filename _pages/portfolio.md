@@ -19,7 +19,7 @@ author_profile: true
   <div class="masonry-item"><img src="/images/wilderness-house.jpg" alt="Shelter Competition"></div>
   <div class="masonry-item"><img src="/images/sketch-istanbul-2019.jpg" alt="Architectural detail, Istanbul, Nov 2019"></div>
   <div class="masonry-item"><img src="/images/sketch-house.jpg" alt="Wooden house, watercolor sketch"></div>
-  <div class="masonry-item"><img src="/images/sketch-barn-2019.jpg" alt="Barn on a snowy day, Nov 2019"></div>
+  <div class="masonry-item"><img src="/images/sketch-barn.jpg" alt="Barn on a snowy day, Nov 2019"></div>
   <div class="masonry-item"><img src="/images/sketch-muharraq-2019.jpg" alt="Street scene, Muharraq, Bahrain, Nov 2019"></div>
 </div>
 
