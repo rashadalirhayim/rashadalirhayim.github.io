@@ -21,6 +21,9 @@ author_profile: true
   <div class="masonry-item"><img src="/images/sketch-house.jpg" alt="Wooden house, watercolor sketch"></div>
   <div class="masonry-item"><img src="/images/sketch-barn.jpg" alt="Barn on a snowy day, Nov 2019"></div>
   <div class="masonry-item"><img src="/images/sketch-muharraq-2019.jpg" alt="Street scene, Muharraq, Bahrain, Nov 2019"></div>
+  <div class="masonry-item"><img src="/images/GIS_1.jpg" alt="GIS Visualization"></div>
+  <div class="masonry-item"><img src="/images/GIS_2.jpg" alt="GIS Visualization"></div>
+
 </div>
 
 <hr style="margin-top: 40px; border: 0; border-top: 1px solid #eee;">
