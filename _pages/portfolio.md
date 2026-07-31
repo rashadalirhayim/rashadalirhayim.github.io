@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <div class="masonry-gallery">
+  <div class="masonry-item"><img src="images/Columbus Migration Map.png" alt="Columbus Migration Map"></div>
   <div class="masonry-item"><img src="/images/ifad-lab.jpg" alt="IFAD Lab"></div>
   <div class="masonry-item"><img src="/images/refugee-shelter-1.jpg" alt="Refugee Shelter Design 1"></div>
   <div class="masonry-item"><img src="/images/social-club.jpg" alt="Senior Social Club"></div>
